@@ -1,13 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 
- body {background-color: #008080;}
- header{ color:#006600;font-family: Comic Sans MS}
- section{ color:#006600;font-family: Comic Sans MS}
- footer{ color:#006600}
+ body {background-color: #87CEEB;}
+ header{ color:#FFFAFA;font-family: Comic Sans MS}
+ section{ color:#FFFAFA;font-family: Comic Sans MS}
+ footer{ color:#FFFAFA}
  
  
- a:link, a:visited, a:active
+ a:link, a:visited, a:active 
 {
 font-family: Arial Black;
 font-size: 11px;
