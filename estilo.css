@@ -2,10 +2,10 @@
 /* CSS Document */
 
  body {background-color: #87CEEB;}
- header{ color:#FFFAFA;font-family: Comic Sans MS}
- section{ color:#FFFAFA;font-family: Comic Sans MS}
+ header{color:#FFFAFA;font-family: Comic Sans MS;} 
+ section{ color:#FFFAFA;font-family: Comic Sans MS;}
  footer{ color:#FFFAFA}
- 
+ hgroup{color:#FFFAFA;font-family: Comic Sans MS;text-align:center}
  
  a:link, a:visited, a:active 
 {
